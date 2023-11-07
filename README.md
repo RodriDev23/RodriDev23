@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm currently working on projects by myself 🧑‍💻, <br>but I'm looking for collaboration with others 👥 to reach new potentials 🚀. <br>I'm passionate about learning new technologies and expanding my skillset, and currently, <br>I'm focusing on mastering React JS ⚛️, React Native 📱, Next JS ➡️, and Python 🐍. <br>I'm excited to continue learning and growing as a developer! 💪
 
 
